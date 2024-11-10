@@ -2,6 +2,8 @@ import { useCallback } from "react";
 import { useState } from "react"
 
 
+// a website to generate the password
+
 function App() {
 
   const [length,setLength] = useState(8)
