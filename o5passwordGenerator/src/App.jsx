@@ -2,7 +2,7 @@ import { useCallback } from "react";
 import { useState } from "react"
 
 
-// a website to generate the password
+
 
 function App() {
 
