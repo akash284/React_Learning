@@ -54,6 +54,8 @@ const router= createBrowserRouter( [
 
 */
 
+//Method -2
+
 // nesting ki and nesting ke top level m layout dia hein
 // tabhi iske andr sare Outlet apare he
 const router =  createBrowserRouter(
