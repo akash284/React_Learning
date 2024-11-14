@@ -6,6 +6,8 @@ import UserContext from "./UserContext";
 
 // step-2 wrap the components  
 // step-3 provider ko value dedo 
+
+// useContext.provider mein jo values di h mtlb ki in-2 values k access sare componenst ko hein 
 const UserContextProvider = ({children}) => {
 
     const  [user,setUser] = React.useState(null)
